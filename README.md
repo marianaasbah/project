@@ -1,2 +1,3 @@
 # project
-## my name is mariana
+## This repository contains a set of projects applied with python Language
+
